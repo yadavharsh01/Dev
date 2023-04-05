@@ -1,6 +1,6 @@
 # fswd_assignments
 
-Assignment-1
+Devtown Assignments
 
 Regards,
 Harsh
